@@ -1,0 +1,2 @@
+D:\Date project\x64\Debug\Date project.exe
+D:\OOP projects\Date project\x64\Debug\Date project.exe
