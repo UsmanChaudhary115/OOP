@@ -1,0 +1,8 @@
+﻿  String.cpp
+D:\MyMath\String.h(8,59): warning C4114: same type qualifier used more than once
+D:\MyMath\String.cpp(25,66): warning C4114: same type qualifier used more than once
+  main.cpp
+D:\MyMath\String.h(8,59): warning C4114: same type qualifier used more than once
+  Generating Code...
+D:\MyMath\String.cpp(140): warning C4715: 'String::getLength': not all control paths return a value
+  MyMath.vcxproj -> D:\MyMath\x64\Debug\MyMath.exe
